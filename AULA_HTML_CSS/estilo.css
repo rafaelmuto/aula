@@ -1,0 +1,18 @@
+body {
+    font-family: monospace;
+}
+
+.container {
+    border: 3px solid black;
+    border-radius: 7px;
+
+    width: 700px;
+
+    padding: 1rem;
+    margin: 3rem auto;
+}
+
+.container p,
+.container h1 {
+    color: gray;
+}

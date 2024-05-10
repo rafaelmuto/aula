@@ -6,6 +6,7 @@
 - MySQL
 - PHP
 
+---
 - GIT (github)
 - Docker (basico)
 - OOP

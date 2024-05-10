@@ -1,5 +1,0 @@
-=> HTML: linguagem basica da web
-=> CSS: cascade style sheet: estiliza o HTML
-=> GIT (github)
-=> JavaScript
-=> PHP

@@ -21,3 +21,6 @@
 ## LINKS:
 - [W3 SCHOOL](https://www.w3schools.com/)
 - [CSS TRICKS](https://css-tricks.com/)
+- [Lorem Ipsun](https://lipsum.com/)
+- [HTML/CSS Wireframe Exercise](https://codefellows.github.io/code-201-guide/curriculum/class-08/lab-a/)
+- [CSS Tools: Reset CSS](https://meyerweb.com/eric/tools/css/reset/)

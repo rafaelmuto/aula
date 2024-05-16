@@ -26,13 +26,13 @@ body {
 }
 
 .info_pessoal {
-    background-image: url(Background_Curriculo.jpg);
+    background-image: url(Imagens/Background_Curriculo.jpg);
     background-repeat: no-repeat;
     text-align: justify;
 }
 
 .container_info {
-    background-image: url(Background_3.jpg);
+    background-image: url(Imagens/Background_3.jpg);
     text-align: justify;
 
 }

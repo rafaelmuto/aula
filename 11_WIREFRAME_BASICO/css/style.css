@@ -1,0 +1,42 @@
+.header {
+    background-color: #333;
+    height: 100px;
+
+    font-family: monospace;
+    color: #DDD;
+}
+
+.header_menu {
+    border: 1px solid red;
+    width: 960px;
+    margin: 0 auto;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.header_menu_item {
+    width: 190px;
+    text-align: center;
+
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+}
+
+.container {
+    border: 1px solid red;
+    width: 960px;
+    margin: 15px auto;
+}
+
+.container_row {
+    margin-bottom: 15px;
+}
+
+.container_images_row {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}

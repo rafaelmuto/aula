@@ -1,7 +1,22 @@
-.container {
-    border: 3px solid black;
-    border-radius: 7px;
+body{
 
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.photo {
+    border-radius: 10px;
+    margin-left: 700px; 
+}
+
+.info_pessoal  {
+
+    display: inline-flex;
+    opacity: 0.8;
+
+}
+.container {
+    border-style: 7px ridge rgb(179, 174, 174);
+    
     width: 700px;
 
     padding: 1rem;
